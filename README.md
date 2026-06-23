@@ -7,7 +7,9 @@ It's adaptive, efficient, and training-free, which can be run in Google Earth En
 
 <img width="4320" height="2112" alt="Picture10" src="https://github.com/user-attachments/assets/04042387-3acb-4e7e-9b19-58f20c5d5121" />
 
-Code Version 1.0: May 31, 2026.
+Zenodo repo:
+
+Code Version 1.0: May 31, 2026. [![DOI](https://zenodo.org/badge/1277753244.svg)](https://doi.org/10.5281/zenodo.20810089) https://doi.org/10.5281/zenodo.20810090
 
 References:
 ===================================================================================================================================================================
