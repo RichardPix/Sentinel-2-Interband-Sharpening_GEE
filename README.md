@@ -1,8 +1,8 @@
 # Sentinel-2-Interband-Sharpening_GEE
-This code increases the spatial resolution of the six Sentinel-2 20-m bands to 10 m. It's adaptive, efficient, and training-free.
-It can be run in Google Earth Engine conveniently. Code link:https://code.earthengine.google.com/f42ccc8ac213523cfada1a039702844b
-<img width="1006" height="62" alt="image" src="https://github.com/user-attachments/assets/39614939-0610-497e-ae9d-bcecd61aeb7c" />
+This code increases the spatial resolution of the six Sentinel-2 20-m bands to 10 m. 
+It's adaptive, efficient, and training-free, which can be run in Google Earth Engine conveniently. Code link: https://code.earthengine.google.com/f42ccc8ac213523cfada1a039702844b
 
+<img width="4320" height="2112" alt="Picture10" src="https://github.com/user-attachments/assets/04042387-3acb-4e7e-9b19-58f20c5d5121" />
 
 Code Version 1.0: May 31, 2026.
 
